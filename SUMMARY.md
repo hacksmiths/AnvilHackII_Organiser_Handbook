@@ -9,5 +9,5 @@
 * [Registration](areas/registration.md)
 * [Help Desk](areas/help_desk.md)
 * [Social Media](areas/social_media.md)
-* Forge Help
+* [Forge Help](areas/forge_help.md)
 
