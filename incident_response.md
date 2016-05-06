@@ -13,11 +13,12 @@ If you receive a complaint or allegation against yourself as a volunteer, or if 
 Immediately inform Bevis, Yuvesh or Kevin.
 Do not question, threaten or react inappropriately to the situation.
 Do not attempt to immediately resolve the situation yourself.
-Ensure the person feels safe and enabled to pursue their complaint with the Rebel Labs team.
+Ensure the person feels safe and enabled to pursue their complaint with Hacksmiths.
 Remove yourself from the situation.
+
 Try to ensure no-one is placed in a position which could cause further compromise.
-If you receive a complaint or allegation against Julia Higginbottom, or if an attendee wishes to make such a complaint:
-Immediately inform Kevin Lewis.
+If you receive a complaint or allegation against Bevis, or if an attendee wishes to make such a complaint:
+Immediately inform Kevin, Yuvesh or Terry.
 Do not question, threaten or react inappropriately to the situation.
 Do not attempt to immediately resolve the situation yourself.
 Ensure the person feels safe and enabled to pursue their complaint with the Rebel Labs team.
