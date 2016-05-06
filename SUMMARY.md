@@ -6,5 +6,5 @@
 * [Rota](rota.md)
 * [Incident Response](incident_response.md)
 * Areas
-* Registration
+* [Registration](areas/registration.md)
 
