@@ -4,12 +4,13 @@ Incident Response
 
 An incident occurs when anybody at the event is made to feel uncomfortable. This could be an attendee, a sponsor, a volunteer or indeed yourself.
 If you receive a complaint or allegation about any attendee, or if anyone involved with the event has given you cause for concern:
-Immediately tell Julia Higginbottom.
+Immediately tell Bevis, Kevin or Yuvesh.
 Write careful notes of what you witnessed, heard or were told.
-Sign, date and pass your notes to Julia.
+Sign, date and pass your notes to Bevis.
 Try to ensure no-one is placed in a position which could cause further compromise.
+
 If you receive a complaint or allegation against yourself as a volunteer, or if an attendee wishes to make such a complaint:
-Immediately inform Julia Higginbottom.
+Immediately inform Bevis, Yuvesh or Kevin.
 Do not question, threaten or react inappropriately to the situation.
 Do not attempt to immediately resolve the situation yourself.
 Ensure the person feels safe and enabled to pursue their complaint with the Rebel Labs team.
