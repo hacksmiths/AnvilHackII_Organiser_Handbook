@@ -1,7 +1,7 @@
 # Contact Information
 
 Bevis
-Main site organizer. 
+Main site organizer
 
 Yuvesh 
 -
