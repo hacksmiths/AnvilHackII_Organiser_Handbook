@@ -7,4 +7,5 @@
 * [Incident Response](incident_response.md)
 * Areas
 * [Registration](areas/registration.md)
+* Help Desk
 
