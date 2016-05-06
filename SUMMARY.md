@@ -8,4 +8,5 @@
 * Areas
 * [Registration](areas/registration.md)
 * [Help Desk](areas/help_desk.md)
+* Social Media
 
