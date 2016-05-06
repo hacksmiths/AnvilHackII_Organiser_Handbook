@@ -6,7 +6,7 @@ An incident occurs when anybody at the event is made to feel uncomfortable. This
 If you receive a complaint or allegation about any attendee, or if anyone involved with the event has given you cause for concern:
 Immediately tell Bevis, Kevin or Yuvesh.
 Write careful notes of what you witnessed, heard or were told.
-Sign, date and pass your notes to Bevis.
+Sign, date and pass your notes to Bevis at bevis@hacksmiths.club.
 Try to ensure no-one is placed in a position which could cause further compromise.
 
 If you receive a complaint or allegation against yourself as a volunteer, or if an attendee wishes to make such a complaint:
