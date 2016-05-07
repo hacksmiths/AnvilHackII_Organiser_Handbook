@@ -13,4 +13,5 @@
 * [Food Prep](areas/food_prep.md)
 * [Hacking Space](areas/hacking_space.md)
 * [Hardware](areas/hardware.md)
+* Games Room
 
