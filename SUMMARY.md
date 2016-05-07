@@ -11,5 +11,5 @@
 * [Social Media](areas/social_media.md)
 * [Forge Help](areas/forge_help.md)
 * [Food Prep](areas/food_prep.md)
-* Hacking Space
+* [Hacking Space](areas/hacking_space.md)
 
