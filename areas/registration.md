@@ -7,6 +7,7 @@ One person must remain at the RHB to collect people who turn up and one going ba
 We recommend you switch between each batch of people.
 
 If you are assigned to the desk you will spend your time greeting attendees signing them in, using eventbrite, and giving them a gold wrist band.
+You sign them in either on a laptop or buy scanning the QR code on their phone using your smartphone.
 Some people may be sponsors, you can confirm this by asking Bevis or Terry.
 Once confirmed give them a gold wristband and point them to their desks. 
 Ask each person you give a wristband to "Do you have any dietary requirements?"
