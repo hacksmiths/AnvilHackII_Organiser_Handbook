@@ -14,4 +14,5 @@
 * [Hacking Space](areas/hacking_space.md)
 * [Hardware](areas/hardware.md)
 * [Games Room](areas/games_room.md)
+   * Sleeping Area
 
