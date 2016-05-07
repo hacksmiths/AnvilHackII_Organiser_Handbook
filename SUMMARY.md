@@ -13,7 +13,6 @@
 * [Food Prep](areas/food_prep.md)
 * [Hacking Space](areas/hacking_space.md)
 * [Hardware](areas/hardware.md)
-* [Sleeping Area](Sleeping Area)
 * [Games Room](areas/games_room.md)
 * [On Break](areas/on_break.md)
 
