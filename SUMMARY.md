@@ -12,5 +12,5 @@
 * [Forge Help](areas/forge_help.md)
 * [Food Prep](areas/food_prep.md)
 * [Hacking Space](areas/hacking_space.md)
-* Hardware
+* [Hardware](areas/hardware.md)
 
