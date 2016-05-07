@@ -12,7 +12,7 @@
 * [Forge Help](areas/forge_help.md)
 * [Food Prep](areas/food_prep.md)
 * [Hacking Space](areas/hacking_space.md)
-* Sleeping Area
+* [Sleeping Area](Sleeping Area)
 * [Hardware](areas/hardware.md)
 * [Games Room](areas/games_room.md)
    * Sleeping Area
