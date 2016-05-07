@@ -15,5 +15,5 @@
 * [Hardware](areas/hardware.md)
 * [Sleeping Area](Sleeping Area)
 * [Games Room](areas/games_room.md)
-* On Break
+* [On Break](areas/on_break.md)
 
